@@ -1,5 +1,5 @@
 # Repositório do desafio Github da DIO
-Desafio de projeto sobre Git/Github
+Respositório criado para desafio de projetos
 
 ## Links Úteis 
 [Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)
